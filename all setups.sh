@@ -1,7 +1,7 @@
 #!/bin/bash
 echo $red 
  echo ""----------------------------------------------------------------------------- ""
-echo " This Script is written by nitro now start"
+echo " This Script is written by amit1811"
 echo "---------------------------------------------------------------------------------"
 
 echo "007"
@@ -11,7 +11,7 @@ echo "."
 
 echo  "#####################################"
 echo   " we are anynomous"               
- echo   " we are noobhackers ok "                                                                    
+ echo   " we are fonshu-hackers ok "                                                                    
 echo   "####################################"
 
 echo "007"
@@ -40,7 +40,7 @@ apt install nmap -y
 pkg install openssh -y
 echo  "#####################################"
 echo   "anynomous "               
- echo   " join us on facebook Noob Hackers"                                                                   echo   "####################################"
+ echo   " join us on facebook fonshu Hackers"                                                                   echo   "####################################"
 
 apt install bash -y
 apt install clang -y
