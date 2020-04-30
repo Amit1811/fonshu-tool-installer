@@ -43,8 +43,6 @@ git clone https://github.com/Amit1811/fonshu-tool-installer.git
 cd fontool
 chmod +x fontool.sh
 sudo bash fontool.sh
-> For macOS:
-To use the bomber type the following commands in macOS terminal:
 
 
 # Missing Tools
