@@ -12,6 +12,7 @@ This script is only for educational purposes.
 None of the developers/contributors are responsible for the misuse of fontool.
 
 > Features:
+
 install open source tool and script 
 ALL updates 
 Automatic updating mechanism 
@@ -26,11 +27,16 @@ git installation methods are not universal and do differ between distributions, 
 
 To use the fontool type the following commands in Termux:
 
-pkg install git  
+pkg install git
+
 git clone https://github.com/Amit1811/fonshu-tool-installer.git 
+
 cd 
+
 chmod +x fontool.sh 
+
 ./fontool.sh 
+
 > For Linux:
 Notice:
 
@@ -39,9 +45,13 @@ git installation methods are not universal and do differ between distributions, 
 # To use the fontool type the following commands in Linux terminal:
 
 sudo apt install git 
+
 git clone https://github.com/Amit1811/fonshu-tool-installer.git 
+
 cd fontool 
+
 chmod +x fontool.sh 
+
 sudo bash fontool.sh 
 
 
