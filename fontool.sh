@@ -78,7 +78,7 @@ echo   " processing wait......
 "                                                                    
 echo   "####################################"
 
-echo " If You Connected To Internet Then u downloaded success fully subscribe us Noob Hackers ...we are learners dont underestimate us "
+echo " If You Connected To Internet Then u downloaded success fully subscribe us fonshu Hackers ...we are learners dont underestimate us "
 
 echo " ??? now rock and hack ??? "
 
