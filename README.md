@@ -57,7 +57,7 @@ sudo bash fontool.sh
 
 # Missing Tools
 
-Toilet cannot be installed yet. But TBomb does still work.
+Toilet cannot be installed yet. But fontool does still work.
 
 # Run Fontool:
 
