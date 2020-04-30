@@ -31,7 +31,7 @@ pkg install git
 
 git clone https://github.com/Amit1811/fonshu-tool-installer.git 
 
-cd 
+cd fonshu-tool-installer
 
 chmod +x fontool.sh 
 
@@ -48,7 +48,7 @@ sudo apt install git
 
 git clone https://github.com/Amit1811/fonshu-tool-installer.git 
 
-cd fontool 
+cd fonshu-tool-installer
 
 chmod +x fontool.sh 
 
